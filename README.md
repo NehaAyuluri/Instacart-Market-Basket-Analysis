@@ -26,6 +26,7 @@ These products have lift values ranging from 5 to 5.25. These products have to b
 ![highimpact](https://user-images.githubusercontent.com/56847819/105786908-edb24000-5f4b-11eb-8de8-da2703525cf1.png)  
 ## Customer Segementation  
 Ideal number of clusters are determined by elbow method and checking there is no overlap after visualizing.  
+![customersegmentation](https://user-images.githubusercontent.com/56847819/105786916-f276f400-5f4b-11eb-92a1-2b3332c1fbbc.png)  
 ### Cluster-0  
 These are customers where instacart should concentrate a lot and develop marketing strategies so they order frequently. Whenever they order they have low average number of orders and lower number of products  
 ### Cluster-1  
