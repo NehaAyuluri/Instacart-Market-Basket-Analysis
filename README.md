@@ -35,6 +35,8 @@ These cluster customer visit instacart often but they don't bring great revenue 
 These are the favorite customers of instacart as they keep ordering often and have good total orders and products. Strategies should be developed in a way to reward the customer loyalty and retain the customers.  
 ## Predict Products In Next Order  
 Created 12 new features to run XGBoost and LightGB algorithms. XGBoost has given highest F1 score at a probability threshold of 0.17  
+![f1score](https://user-images.githubusercontent.com/56847819/105786926-f6a31180-5f4b-11eb-8552-f9f645663a90.png)  
+
 
 
 
