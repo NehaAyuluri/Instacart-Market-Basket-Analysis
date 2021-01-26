@@ -17,6 +17,7 @@ Aisle and Department- This plot shows product counts in Departments and Aisles. 
 Recommendations are made on aisle level as having 39K unique products made it difficult to visually represent. 20k rules are generated with aisle level which is again difficult to represent visually. To overcome this rules are categorized into 3 categories based on lift. Lift here is ranging from 0 to 5.25.  
 ### Low Impact  
 These product combinations have lift less than 1 which means they should not be recommended together.  
+![lowimpact](https://user-images.githubusercontent.com/56847819/105786851-d2473500-5f4b-11eb-8737-aa688f64c2d6.png)  
 ### Medium Impact  
 These products have lift values ranging from 1 to 2. They can be recommended together but will not generate high revenue.  
 ### High Impact  
