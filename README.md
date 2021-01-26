@@ -20,6 +20,7 @@ These product combinations have lift less than 1 which means they should not be 
 ![lowimpact](https://user-images.githubusercontent.com/56847819/105786851-d2473500-5f4b-11eb-8737-aa688f64c2d6.png)  
 ### Medium Impact  
 These products have lift values ranging from 1 to 2. They can be recommended together but will not generate high revenue.  
+![medimpact](https://user-images.githubusercontent.com/56847819/105786904-e8ed8c00-5f4b-11eb-9441-be4f79f7d6a9.png)  
 ### High Impact  
 These products have lift values ranging from 5 to 5.25. These products have to be recommended together and will generate high revenue to instacart.  
 ## Customer Segementation  
