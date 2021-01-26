@@ -12,6 +12,7 @@ Customer shopping habits - 	Most of the orders are placed on Sunday morning and 
 Reorder Interval - Most of the users will reorder weekly and monthly  
 ![Reorder](https://user-images.githubusercontent.com/56847819/105786316-d3c42d80-5f4a-11eb-8015-b8c978415cbe.png)  
 Aisle and Department- This plot shows product counts in Departments and Aisles. Count is represented by size. Produce department has the highest product count, fresh fruits and vegetables aisles within this department are ordered more.  
+![treemap](https://user-images.githubusercontent.com/56847819/105786731-a2982d00-5f4b-11eb-890b-5fe9725cecd9.png)
 ## Association Rule Mining  
 Recommendations are made on aisle level as having 39K unique products made it difficult to visually represent. 20k rules are generated with aisle level which is again difficult to represent visually. To overcome this rules are categorized into 3 categories based on lift. Lift here is ranging from 0 to 5.25.  
 ### Low Impact  
