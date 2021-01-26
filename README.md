@@ -36,6 +36,7 @@ These are the favorite customers of instacart as they keep ordering often and ha
 ## Predict Products In Next Order  
 Created 12 new features to run XGBoost and LightGB algorithms. XGBoost has given highest F1 score at a probability threshold of 0.17  
 ![f1score](https://user-images.githubusercontent.com/56847819/105786926-f6a31180-5f4b-11eb-8552-f9f645663a90.png)  
+![output](https://user-images.githubusercontent.com/56847819/105786933-f99e0200-5f4b-11eb-9edf-033c988bc154.png)  
 
 
 
